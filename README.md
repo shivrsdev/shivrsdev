@@ -1,3 +1,7 @@
-```js
-console.log('Touch grass');
-```
+# contact: shiv.rs.dev@gmail.com
+# 
+[![womp womp](https://readme-typing-svg.demolab.com/?lines=uni+is+easy;just+watch+me)](https://git.io/typing-svg)
+</br>
+![crap nobody reads](https://github-readme-stats.vercel.app/api?username=shivrsdev&hide=contribs,prs&theme=radical)
+</br> </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivrsdev&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
