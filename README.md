@@ -1,6 +1,6 @@
 # contact: shiv.rs.dev@gmail.com
 # 
-[![womp womp](https://readme-typing-svg.demolab.com/?lines=uni+is+easy;just+watch+me)](https://git.io/typing-svg)
+[![womp womp](https://readme-typing-svg.demolab.com/?lines=skibdi+gronk+rizzla+gyatt)](https://git.io/typing-svg)
 </br>
 ![crap nobody reads](https://github-readme-stats.vercel.app/api?username=shivrsdev&hide=contribs,prs&theme=radical)
 </br> </br>
