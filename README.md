@@ -4,4 +4,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivrsdev&theme=dark)](https://git.io/streak-stats)
 </br>
 ![crap nobody reads](https://github-readme-stats.vercel.app/api?username=shivrsdev&hide=contribs,prs&theme=dark)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivrsdev&langs_count=3&theme=dark)
 </br> </br>
